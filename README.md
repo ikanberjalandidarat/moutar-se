@@ -7,5 +7,5 @@ Number two:
 - 2.2: Can delete the "Parent" "Child" text within the boxes drawn; it was just to illustrate the coding process.
 
 Number three:
-- departmen.sql contains the sql dump, and the queries needed.
+- department.sql contains the sql dump, and the queries needed.
 - ERD is in the jpg listed. 
