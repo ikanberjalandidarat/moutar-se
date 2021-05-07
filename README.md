@@ -1,6 +1,6 @@
 # Moutar SE Test 
 
-Number one has a google collab link accessible to **view** here: https://colab.research.google.com/drive/1gCW8fhESfUUlkbn0XNoYODNnayD7GM9X#scrollTo=H9ZPL0zEvK0k
+Number one is in a Python Notebook form; if you'd prefer there a google collab link accessible to **view** here: https://colab.research.google.com/drive/1gCW8fhESfUUlkbn0XNoYODNnayD7GM9X#scrollTo=H9ZPL0zEvK0k
 
 Number two:
 - 2.1: A bit rushed, and the front-end with no frameworks is quite a challenge.
