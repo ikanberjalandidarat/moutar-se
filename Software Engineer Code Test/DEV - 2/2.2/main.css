@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', serif;
+    background: #fff;
+    color: #000;
+}
+div {
+    text-align: center;
+}
+.outer {
+    background: #fff;
+    margin: 20%;
+}
+h2 {
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0 10px;
+    margin-bottom: 5px;
+}
+code {
+    padding: 5px 0px;
+}
+.parent {
+    position: relative;
+    background: #f00;
+    width: 80vw;
+    margin: 8vw 10vw;
+    height: 200px;
+    width: 400px;
+}
+.child {
+    opacity: 0.8;
+    height: 80px;
+    width: 140px;
+    background: #0f0;
+    width: 200px;
+    position: absolute;
+    top: 120px;
+    left: 200px;
+}

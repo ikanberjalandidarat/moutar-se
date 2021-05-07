@@ -1,0 +1,12 @@
+.slider-navigation ul li a {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/nav-slider.png', sizingMethod='image');
+}
+.slider-navigation ul li a.active {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/nav-slider-active.png', sizingMethod='image');
+}
+.arrow-separator {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/unvisible-arrow2.png', sizingMethod='image');
+}
